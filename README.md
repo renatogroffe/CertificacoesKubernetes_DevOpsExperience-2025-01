@@ -11,6 +11,15 @@ Conteúdos sobre certificações com foco em Kubernetes de apresentação realiz
 - https://www.cncf.io/training/certification/ckad/
 - https://www.cncf.io/training/certification/kcsa/
 
+### Certificações Microsoft Azure
+- https://learn.microsoft.com/pt-br/credentials/certifications/azure-developer
+- https://learn.microsoft.com/en-us/credentials/certifications/devops-engineer/
+- https://learn.microsoft.com/pt-br/credentials/certifications/azure-solutions-architect/
+
+### Certificações AWS
+- https://aws.amazon.com/pt/certification/certified-solutions-architect-associate/
+- https://aws.amazon.com/pt/certification/certified-solutions-architect-professional/
+
 ### Certificações Linux Foundation
 - https://training.linuxfoundation.org/training/introduction-to-kubernetes/
 - https://training.linuxfoundation.org/express-learning/scaling-cloud-native-applications-with-keda-lfel1014/
