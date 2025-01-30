@@ -11,4 +11,7 @@ Conteúdos sobre certificações com foco em Kubernetes de apresentação realiz
 - https://www.cncf.io/training/certification/ckad/
 - https://www.cncf.io/training/certification/kcsa/
 
-
+### Certificações Linux Foundation
+- https://training.linuxfoundation.org/training/introduction-to-kubernetes/
+- https://training.linuxfoundation.org/express-learning/scaling-cloud-native-applications-with-keda-lfel1014/
+- https://training.linuxfoundation.org/training/getting-started-with-opentelemetry-lfs148/
